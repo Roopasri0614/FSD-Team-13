@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+
+# We are NOT ignoring the backend/uploads/ folder here because
+# you need your professor to see the images you uploaded when 
+# they download your code!
